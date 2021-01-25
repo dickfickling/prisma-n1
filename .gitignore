@@ -1,0 +1,24 @@
+# Dependency directory
+node_modules
+
+# OSX metadata
+.DS_Store
+
+# Artifacts
+build
+coverage
+
+# IDE stuff
+.vscode
+
+# temp
+scratch
+
+# todo
+TODO
+
+# Schema
+schema.gql
+
+# Prod
+.env.production
